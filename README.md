@@ -2,6 +2,8 @@
 
 This repository contains the algorithm & process for calculating token production under the new mining contract hosted under "terraminingx" on the WAX Blockchain.
 
+The mining.js file is designed to be used alongside some code for fetching NFTs as well as table info via an RPC on the WAX Blockchain. 
+
 Built by t break.
 
 https://tfmw.gg
